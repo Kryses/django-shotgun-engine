@@ -1,0 +1,4 @@
+Django==1.11.16
+djangotoolbox==1.8.0
+pytz==2018.7
+shotgun-api3==3.0.36
